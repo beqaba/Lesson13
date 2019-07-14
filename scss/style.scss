@@ -282,3 +282,61 @@ ul{
     bottom: 65px;;
     border-top: 60px solid white;
   }
+  .tidivis{
+    line-height: 40px;
+  }
+  .input-box{
+	max-width: 1280px;
+	width:100%;
+    margin: 0 auto; 
+    display: flex;
+    justify-content: center;
+	margin-bottom: 20px;
+}
+.input-box  input{
+	width: 400px;
+	padding: 10px 30px;
+    border: 2px solid black;
+
+}
+textarea{
+    resize: none;
+    border: 2px solid black;
+    padding-right: 800px;
+
+}
+.archeva{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+.fot1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #313332;
+}
+.h3{
+    font-size: 26px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.h31{
+    line-height: 23px;
+    font-size: 14px;
+}
+.h3p{
+    border-bottom: 2px solid grey;
+    font-size: 14px;
+    line-height: 30px;
+}
+.h3s{
+    line-height: 35px;
+}
+span{
+    background-color: pink;
+}
+span1{
+    padding-right: 25px;
+    color: #f86908;
+}
